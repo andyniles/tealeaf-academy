@@ -1,0 +1,1 @@
+This repo contains the files for Tealeaf Academy exercises
